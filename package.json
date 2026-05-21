@@ -1,0 +1,20 @@
+{
+  "name": "dummy-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server that returns sample text",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "http"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
